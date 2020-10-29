@@ -1,0 +1,115 @@
+h1{
+    position:relative;
+    top:0px; 
+    left :600px;
+    text-align: center;
+    font-size: 34px;
+    color:#6599FF;
+    background-color: #FFDE00;
+    font-family: 'Turret Road', cursive;
+    width:800px;
+}
+h3{
+    position:relative;
+    top:-30px; 
+    margin:0px;
+    text-align: center;
+    font-size: 20px;
+    color:#6599FF;
+    background-color: #FFDE00;
+    left :600px;
+    width:800px;
+    font-family: 'Turret Road', cursive;
+}
+form{
+    position: relative;
+    top:-15px;
+    text-align:center;
+}
+form label{
+    display:inline-block;
+    font-size:30px;
+    font-weight:bold;
+    text-align:right;
+    width:300px;
+    color: #6599FF;
+    font-family: 'Turret Road', cursive;
+}
+
+
+form input {
+    display:inline-block;
+        font-size:35px;
+        padding:4px 2px;
+        border:solid 3px #FFDE00;
+        width:1500px;
+        height:35px;
+        margin:2px 0 20px 10px;
+        color:  #6599FF;
+        font-family: 'Turret Road', cursive;
+}
+
+#submit{
+    position: relative;
+    right: 100px;
+    float:right;
+    padding: 2px;
+    height: 70px; 
+    width:200px; 
+    border:solid 4px#6599FF;
+    background-color:#FFDE00 ;
+    color: #6599FF;
+    border-radius: 40%;
+    font-family: 'Turret Road', cursive;
+    font-size: 20px;
+}
+#submit:hover{
+    background-color: #FF9900;
+}
+#memes{
+    position: relative;
+    top:150px;
+}
+#memes div{
+    display: inline-block;
+    padding:30px;
+    height: 400px;
+    width:500px;
+}
+img {
+    padding:30px;
+    height: 400px;
+    width:500px;
+}
+#toptext{
+    position: relative;
+    top: -450px;
+    text-align: center;
+    font-size: 40px; 
+    color:white;
+    font: impact;
+    font-weight:bold;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+#bottomtext{
+    position: relative;
+    top: -580px;
+    text-align:center;
+    font-size: 40px; 
+    color:white;
+    font-weight:bold;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#close{
+    position: relative;
+    left:491px;
+    top: -1354px;
+    color: #FFDE00;
+    background-color:#6599FF ;
+    width:40px;
+    height:40px;
+    font-size: 30px;
+}
+#close:hover{
+    background-color: #FF9900;
+}
